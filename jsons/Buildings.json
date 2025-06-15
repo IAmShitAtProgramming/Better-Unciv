@@ -2,10 +2,11 @@
   {
     "name": "Quicker Growth",
     "cost": 0,
-    "uniques": [ "Automatically built in all cities where it is buildable",
-      "culture": 5,
-      "food": 5,
-      "production": 5
+    "culture": 5,
+    "food": 5,
+    "production": 5
+    "uniques": [ 
+      "Automatically built in all cities where it is buildable",
     ]
   }
 ]
