@@ -7,6 +7,7 @@
     "production": 5
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
+      "Unbuildable <for [AI player] Civilization>",
     ]
   }
   {
@@ -14,6 +15,6 @@
     "cost": 0,
     "uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-		    "Unbuildable <for [AI player]>",
+		    "Unbuildable <for [AI player] Civilization>",
         "[+100]% XP gained from combat <for [Military] units>"]}
 ]
