@@ -3,8 +3,18 @@
     "name": "Quicker Growth",
     "cost": 0,
     "uniques": [
-      "Unbuildable <for [AI player]>"],
-      "culture": 5
-      "food": 5
+      "Automatically built in all cities where it is buildable",
+      "culture": 5,
+      "food": 5,
+      "production": 5
   }
+]
+[
+  {
+    "name": "MoreXp",
+    "cost": 0,
+    "uniques": [ "Automatically built in all cities where it is buildable",
+		    "Limited to [1] per Civilization",
+		    "Unbuildable <for [AI player]>",
+        "[+100]% XP gained from combat <for [Military] units>"]}
 ]
