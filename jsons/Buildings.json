@@ -4,16 +4,22 @@
     "cost": 0,
     "culture": 5,
     "food": 5,
-    "production": 5
-    "science": 0
-    "gold": 100000
-    "faith": 0
+    "production": 5,
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
-      "Reveals the entire map",
-      "Cannot build [Air] units"
+      "Unbuildable <for [AI player] Civilizations>"
     ]
   }
+  {
+    "name": "AirBlock",
+    "cost": 0,
+    "culture": 5,
+    "food": 5,
+    "production": 5,
+    "uniques": [
+	    "Cannot build [Air] units",
+            "Automatically built in all cities where it is buildable"
+    ]
   {
     "name": "MoreXpBaby",
     "cost": 0,
