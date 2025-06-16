@@ -11,7 +11,7 @@
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
       "Reveals the entire map",
-      "Cannot build [All] units"
+      "Cannot build [Air] units"
     ]
   }
   {
