@@ -9,7 +9,7 @@
       "Automatically built in all cities where it is buildable",
       "Unbuildable <for [AI player] Civilizations>"
     ]
-  }
+  },
   {
     "name": "AirBlock",
     "cost": 0,
@@ -20,6 +20,7 @@
 	    "Cannot build [Air] units",
             "Automatically built in all cities where it is buildable"
     ]
+  },
   {
     "name": "MoreXpBaby",
     "cost": 0,
