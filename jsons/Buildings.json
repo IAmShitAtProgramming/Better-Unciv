@@ -6,7 +6,7 @@
     "food": 5,
     "production": 5
     "science": 0
-    "gold": 0
+    "gold": 100000
     "faith": 0
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
