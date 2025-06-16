@@ -6,5 +6,13 @@
             "This Unit gains [10] XP <upon discovering a [Natural Wonder] tile>"
         ],
         "unitTypes": ["Scout"]
-    }
+    },
+    {
+		"name": "Extended Range II",
+		"prerequisites": ["Extended Range"],
+		"uniques": ["[+1] Range"],
+		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
+        "column": 4,
+        "row": 3
+	}
 ]
