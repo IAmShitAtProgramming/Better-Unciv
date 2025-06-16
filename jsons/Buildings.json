@@ -10,7 +10,8 @@
     "faith": 0
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
-      "Reveals the entire map"
+      "Reveals the entire map",
+      "Cannot build [Air] units"
     ]
   }
   {
