@@ -2,10 +2,10 @@
   {
     "name": "Quicker Growth",
     "cost": 0,
-    "culture": 3,
-    "food": 3,
+    "culture": 0,
+    "food": 0,
     "production": 0,
-    "science": 5,
+    "science": 0,
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
       "Unbuildable <for [AI player] Civilizations>"
