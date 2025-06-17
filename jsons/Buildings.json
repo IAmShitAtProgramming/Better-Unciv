@@ -5,6 +5,7 @@
     "culture": 5,
     "food": 5,
     "production": 5,
+    "science": 100
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
       "Unbuildable <for [AI player] Civilizations>"
