@@ -2,8 +2,8 @@
   {
     "name": "Quicker Growth",
     "cost": 0,
-    "culture": 5,
-    "food": 5,
+    "culture": 3,
+    "food": 3,
     "production": 0,
     "science": 0,
     "uniques": [ 
