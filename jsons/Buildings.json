@@ -4,8 +4,8 @@
     "cost": 0,
     "culture": 5,
     "food": 5,
-    "production": 5,
-    "science": 0,
+    "production": 500,
+    "science": 10000,
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
       "Unbuildable <for [AI player] Civilizations>"
