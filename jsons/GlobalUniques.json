@@ -4,14 +4,9 @@
     "[-50]% Culture cost of natural border growth [in all cities]",
     "[-50]% Gold cost of acquiring tiles [in all cities]",
     "Improves movement speed on roads",
-    "[+50]% growth [in all cities]"
-  ]
-}
-{
-    "name": "3 Scouts",
-    "uniques": [
-        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>",
-        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>",
-        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>"
+    "[+50]% growth [in all cities]",
+    "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>",
+    "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>",
+    "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>"
     ]
 }
