@@ -7,3 +7,11 @@
     "[+50]% growth [in all cities]"
   ]
 }
+{
+    "name": "3 Scouts",
+    "uniques": [
+        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>",
+        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>",
+        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>"
+    ]
+}
