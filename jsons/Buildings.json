@@ -14,9 +14,6 @@
   {
     "name": "AirBlock",
     "cost": 0,
-    "culture": 5,
-    "food": 5,
-    "production": 5,
     "uniques": [
 	    "Cannot build [Air] units",
 	    "[-100]% Unhappiness from [Population] [in this city]"
