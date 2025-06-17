@@ -4,7 +4,7 @@
 		"prerequisites": ["Extended Range"],
 		"uniques": ["[+1] Range"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
-        "column": 10,
+        "column": 12,
         "row": 3
 	}
 ]
