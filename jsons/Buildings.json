@@ -9,6 +9,7 @@
     "uniques": [ 
       "Automatically built in all cities where it is buildable",
       "Unbuildable <for [AI player] Civilizations>",
+      "Limited to [1] per Civilization",
       "[10] Free Technologies"
     ]
   },
