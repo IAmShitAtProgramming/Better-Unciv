@@ -2,6 +2,7 @@
     {
 		"name": "Extended Range II",
 		"prerequisites": ["Extended Range"],
+	        "uniques": [""]
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
         "column": 12,
         "row": 6
