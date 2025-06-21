@@ -1,7 +1,6 @@
 {
   "name": "Global uniques",
   "uniques": [
-    "<every [3] turns> Free Technology",
     "[-50]% Culture cost of natural border growth [in all cities]",
     "[-50]% Gold cost of acquiring tiles [in all cities]",
     "Improves movement speed on roads",
