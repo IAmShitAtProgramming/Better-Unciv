@@ -10,9 +10,7 @@
     "[+100]% maintenance costs"
     "[+100]% [Production] [in all cities]",
     "[+50]% [Food] [in all cities]"
-  ]
-},
-{
+  ],
   "name": "Expensive units",
   "uniques": [
     "[+1000]% maintenance costs"
