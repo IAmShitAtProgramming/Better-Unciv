@@ -1,18 +1,21 @@
 {
-  "name": "Global uniques",
+  "name": "Big Cities",
   "uniques": [
     "[-500]% Culture cost of natural border growth [in all cities]",
     "[-50]% Gold cost of acquiring tiles [in all cities]",
-    "Improves movement speed on roads",
-    "Each city founded increases culture cost of policies [100]% less than normal",
-    "Each city founded increases Science cost of Technologies [100]% less than normal"
-    "Free [Scout] appears <before turn number [1]> <for [Human player] Civilizations> <if starting in the [Ancient era]>",
-    "[+100]% maintenance costs"
     "[+100]% [Production] [in all cities]",
     "[+50]% [Food] [in all cities]"
   ],
-  "name": "Expensive units",
+  
+  "name": "Bigger means better",
   "uniques": [
-    "[+1000]% maintenance costs"
+    "Each city founded increases culture cost of policies [100]% less than normal",
+    "Each city founded increases Science cost of Technologies [100]% less than normal"
+  ],
+  
+  "name": "Little Units + balance",
+  "uniques": [
+    "[+900]% maintenance costs",
+    "[-50]% Strength for cities"
   ]
 }
