@@ -6,14 +6,14 @@
     "Each city founded increases Science cost of Technologies [100]% less than normal",
     "[-50]% Strength for cities",
     "Free [Settler] appears <before turn number [1]> <for [Human player] Civilizations>",
-    "[-10 Gold] <for every [[Military] Units]>",
-    "[-10 Gold] <for every [[[Military] Units]-5]><when number of [[Military] Units] is more than [5]>",
-    "[-10 Gold] <for every [[[Military] Units]-10]><when number of [[Military] Units] is more than [10]>",
-    "[-10 Gold] <for every [[[Military] Units]-15]><when number of [[Military] Units] is more than [15]>",
-    "[-10 Gold] <for every [[[Military] Units]-20]><when number of [[Military] Units] is more than [20]>",
-    "[-10 Gold] <for every [[[Military] Units]-25]><when number of [[Military] Units] is more than [25]>",
-    "[-10 Gold] <for every [[[Military] Units]-30]><when number of [[Military] Units] is more than [30]>",
-    "[-10 Gold] <for every [[[Military] Units]-35]><when number of [[Military] Units] is more than [35]>",
+    "[-5 Gold] <for every [[Military] Units]>",
+    "[-5 Gold] <for every [[[Military] Units]-5]><when number of [[Military] Units] is more than [5]>",
+    "[-5 Gold] <for every [[[Military] Units]-10]><when number of [[Military] Units] is more than [10]>",
+    "[-5 Gold] <for every [[[Military] Units]-15]><when number of [[Military] Units] is more than [15]>",
+    "[-5 Gold] <for every [[[Military] Units]-20]><when number of [[Military] Units] is more than [20]>",
+    "[-5 Gold] <for every [[[Military] Units]-25]><when number of [[Military] Units] is more than [25]>",
+    "[-5 Gold] <for every [[[Military] Units]-30]><when number of [[Military] Units] is more than [30]>",
+    "[-5 Gold] <for every [[[Military] Units]-35]><when number of [[Military] Units] is more than [35]>",
     "[-100]% Unhappiness from [Population] [in all cities]"
   ]
 }
