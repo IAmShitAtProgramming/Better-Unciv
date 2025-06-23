@@ -25,7 +25,9 @@
   {
     "name": "MoreXpBaby",
     "cost": 0,
-    "uniques": [ "Automatically built in all cities where it is buildable",
-		    "Limited to [1] per Civilization",
-        "[+0]% XP gained from combat <for [Military] units>"]}
+    "uniques": [ 
+	    "Automatically built in all cities where it is buildable",
+	    "Limited to [1] per Civilization",
+	    "[+100 Gold] <for every [Unit]>",
+	    "[+0]% XP gained from combat <for [Military] units>"]}
 ]
