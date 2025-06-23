@@ -7,6 +7,6 @@
     "Each city founded increases Science cost of Technologies [100]% less than normal",
     "[-50]% Strength for cities",
     "Free [Settler] appears <before turn number [1]> <for [Human player] Civilizations>",
-    "[-3 Gold] <for every [[Military] Units]>"
+    "[-30 Gold] <for every [[Military] Units]>"
   ]
 }
