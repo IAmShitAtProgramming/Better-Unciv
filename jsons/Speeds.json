@@ -1,7 +1,7 @@
 [
     {
         "name": "Quick",
-        "modifier": 0.3,
+        "modifier": 0.67,
         "productionCostModifier": 0.3,
         "goldCostModifier": 0.67,
         "scienceCostModifier": 1.5,
