@@ -18,7 +18,6 @@
     "cost": 0,
     "uniques": [
 	    "Cannot build [Air] units",
-	    "[-100]% Unhappiness from [Population] [in this city]"
             "Automatically built in all cities where it is buildable"
     ]
   },
