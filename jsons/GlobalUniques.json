@@ -14,6 +14,8 @@
     "[-5 Gold] <for every [[[Military] Units]-25]><when number of [[Military] Units] is more than [25]>",
     "[-5 Gold] <for every [[[Military] Units]-30]><when number of [[Military] Units] is more than [30]>",
     "[-5 Gold] <for every [[[Military] Units]-35]><when number of [[Military] Units] is more than [35]>",
+    "[+100]% XP gained from combat <for [Military] units>",
+    "[+20]% growth [in all cities]",
     "[-100]% Unhappiness from [Population] [in all cities]"
   ]
 }
