@@ -15,5 +15,10 @@
   "uniques": [
     "[+900]% maintenance costs",
     "[-50]% Strength for cities"
+  ],
+
+  "name": "Good Start",
+  "uniques": [
+    "Free [Musketman] appears <before turn number [3]> <for [Human Player] Civilizations>"
   ]
 }
