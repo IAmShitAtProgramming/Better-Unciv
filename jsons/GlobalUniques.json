@@ -1,7 +1,7 @@
 {
   "name": "Global uniques",
   "uniques": [
-    "[-50]% Culture cost of natural border growth [in all cities]",
+    "[-99]% Culture cost of natural border growth [in all cities]",
     "[-50]% Gold cost of acquiring tiles [in all cities]",
     "Improves movement speed on roads",
     "Each city founded increases culture cost of policies [100]% less than normal",
