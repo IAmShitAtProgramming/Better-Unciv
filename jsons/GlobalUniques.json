@@ -1,9 +1,6 @@
 {
   "name": "Big Cities",
   "uniques": [
-    "[-70]% Gold cost of acquiring tiles [in all cities]",
-    "[+100]% [Production] [in all cities]",
-    "[+100]% [Culture] [in all cities]",
     "[+50]% [Food] [in all cities]",
     "[+200]% Great Person generation [in all cities]"
   ],
