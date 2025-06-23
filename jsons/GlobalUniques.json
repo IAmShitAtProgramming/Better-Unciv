@@ -13,7 +13,7 @@
   
   "name": "Little Units + balance",
   "uniques": [
-    "[-300 Gold] <for every [[Military] Units]> <upon turn start>"
+    "[+100 Gold] <for every [[Military] Units]> <in [Capital] cities>",
     "[-50]% Strength for cities"
   ],
 
