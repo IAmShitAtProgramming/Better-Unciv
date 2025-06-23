@@ -13,12 +13,12 @@
   
   "name": "Little Units + balance",
   "uniques": [
-    "[-300 Gold] <for every [[Military] Units]>"
+    "[-300 Gold] <for every [[Military] Units]> <upon turn start>"
     "[-50]% Strength for cities"
   ],
 
   "name": "Good Start",
   "uniques": [
-    "Free [Settler] appears <before turn number [3]> <for [Human player] Civilizations>"
+    "Free [Settler] appears <before turn number [1]> <for [Human player] Civilizations>"
   ]
 }
