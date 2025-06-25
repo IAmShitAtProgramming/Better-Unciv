@@ -2,7 +2,7 @@
   {
     "name": "Scout",
     "unitType": "Scout",
-    "movement": 3,
+    "movement": 4,
     "strength": 5,
     "cost": 25,
     "uniques": [
@@ -10,7 +10,7 @@
       "May upgrade to [Warrior] through ruins-like effects",
       "Never appears as a Barbarian unit",
       "Can see over obstacles",
-      "[+1] Sight <when [Embarked]>",
+      "[+3] Sight",
     ],
     "promotions": [
       "Ignore terrain cost"
