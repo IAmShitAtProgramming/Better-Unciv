@@ -7,6 +7,7 @@
     "[-1] Unit Supply per [2] population [in all cities]",
     "[+1] Unit Supply per [10] population [in all cities]",
     "[-5] Unit Supply",
+    "[-1] Unit Supply per city",
     "[-0 Gold] <for every [[Military] Units]>",
     "[-0 Gold] <for every [[[Military] Units]-5]><when number of [[Military] Units] is more than [5]>",
     "[-0 Gold] <for every [[[Military] Units]-10]><when number of [[Military] Units] is more than [10]>",
