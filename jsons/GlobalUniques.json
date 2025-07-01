@@ -5,7 +5,7 @@
     "Each city founded increases Science cost of Technologies [100]% less than normal",
     "Free [Scout] appears <before turn number [1]> <for [Human player] Civilizations>",
     "[+1][Unit Supply] <for every [[population]/10]>",
-    "Instantly gain [-1] [Valkyrie Lifespan] <upon turn start>
+    "Instantly gain [-1] [Unit Supply] <upon turn start>"
     "[-0 Gold] <for every [[Military] Units]>",
     "[-0 Gold] <for every [[[Military] Units]-5]><when number of [[Military] Units] is more than [5]>",
     "[-0 Gold] <for every [[[Military] Units]-10]><when number of [[Military] Units] is more than [10]>",
