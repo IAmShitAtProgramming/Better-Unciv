@@ -4,7 +4,7 @@
     "Each city founded increases culture cost of policies [100]% less than normal",
     "Each city founded increases Science cost of Technologies [100]% less than normal",
     "Free [Scout] appears <before turn number [1]> <for [Human player] Civilizations>",
-    "[+1 Unit Supply] <for every [[population]/10]>",
+    "[+1 [Unit Supply]] <for every [[population]/10]>",
     "[+1 Unit Supply] <for every [city]>",
     "[-1 Unit Supply] <for every [[Military] Units]>",
     "[-0 Gold] <for every [[Military] Units]>",
