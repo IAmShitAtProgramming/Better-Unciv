@@ -7,6 +7,7 @@
     "[+1 [Unit Supply]] <for every [[population]/10]>",
     "[+1 Unit Supply] <for every [city]>",
     "[-1 Unit Supply] <for every [[Military] Units]>",
+    "Instantly gain [10] [Supply] <upon turn start>"
     "[-0 Gold] <for every [[Military] Units]>",
     "[-0 Gold] <for every [[[Military] Units]-5]><when number of [[Military] Units] is more than [5]>",
     "[-0 Gold] <for every [[[Military] Units]-10]><when number of [[Military] Units] is more than [10]>",
