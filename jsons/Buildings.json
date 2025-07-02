@@ -1,31 +1,10 @@
 [
   {
-    "name": "Quicker Growth",
-    "cost": 0,
-    "culture": 0,
-    "food": 0,
-    "production": 0,
-    "science": 0,
-    "uniques": [ 
-      "Automatically built in all cities where it is buildable",
-      "Unbuildable <for [AI player] Civilizations>",
-      "Limited to [0] per Civilization",
-      "[1] Free Technologies"
-    ]
-  },
-  {
     "name": "AirBlock",
     "cost": 0,
     "uniques": [
 	    "Cannot build [Air] units",
             "Automatically built in all cities where it is buildable"
     ]
-  },
-  {
-    "name": "MoreXpBaby",
-    "cost": 0,
-    "uniques": [ 
-	    "Automatically built in all cities where it is buildable",
-	    "Limited to [1] per Civilization",
-	    "[+0]% XP gained from combat <for [Military] units>"]}
+  }
 ]
