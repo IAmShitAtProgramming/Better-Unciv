@@ -26,7 +26,7 @@
     "[-2 Happiness] <for every [[[Military] Units]-10]><when number of [[Military] Units] is more than [10]><for [Human player] Civilizations>",
     "[-2 Happiness] <for every [[[Military] Units]-15]><when number of [[Military] Units] is more than [15]><for [Human player] Civilizations>",
     "[-2 Happiness] <for every [[[Military] Units]-20]><when number of [[Military] Units] is more than [20]><for [Human player] Civilizations>",
-    "[+400]% XP gained from combat <for [Military] units>",
+    "[+100]% XP gained from combat <for [Military] units>",
     "[-100]% Unhappiness from [Population] [in all cities]",
     "[-100]% unhappiness from the number of cities",
     "[+100]% growth [in all cities]",
