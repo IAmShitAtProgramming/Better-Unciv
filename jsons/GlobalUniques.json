@@ -6,8 +6,8 @@
     "Free [Scout] appears <before turn number [1]> <for [Human player] Civilizations>",
     "Free [Settler] appears <before turn number [1]> <for [Human player] Civilizations>",
     "[-50]% XP required for promotions",
-    "[-50]% Unhappiness from [Population] [in all cities]",
-    "[-50]% unhappiness from the number of cities",
+    "[-100]% Unhappiness from [Population] [in all cities]",
+    "[-100]% unhappiness from the number of cities",
     "[+100]% growth [in all cities]",
     "[+50]% Strength decreasing with distance from the capital",
     "[+10]% Strength <for every [Era number]> <for [AI player] Civilizations>"
