@@ -9,6 +9,6 @@
     "[-50]% Unhappiness from [Population] [in all cities]",
     "[-50]% unhappiness from the number of cities",
     "[+100]% growth [in all cities]",
-    "[+0]% Strength <for [AI player] Civilizations>"
+    "[+100]% Strength decreasing with distance from the capital"
   ]
 }
