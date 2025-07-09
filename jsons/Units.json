@@ -11,7 +11,7 @@
       "Never appears as a Barbarian unit",
       "Can see over obstacles",
       "[+1] Sight",
-      "This Unit gains [1] XP <with [20]% chance> <upon discovering a [All] tile>"
+      "This Unit gains [1] XP <upon discovering a [All] tile>"
     ],
     "promotions": [
       "Ignore terrain cost"
