@@ -30,6 +30,6 @@
     "[+4900]% Great Person generation [in all cities]",
     "[+50]% Strength decreasing with distance from the capital",
     "[+10]% Strength <for every [Era number]> <for [AI player] Civilizations>",
-    "[+10000]% [Production] [in all cities]<for [Human player] Civilizations>"
+    "[+900]% Production when constructing [All] wonders [in all cities]<for [Human player] Civilizations>"
   ]
 }
