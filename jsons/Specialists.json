@@ -1,0 +1,12 @@
+[
+  {
+		"name": "Unemployed",
+		"production": 2,
+		"color": [110, 77, 37]
+	},
+  {
+    "name": "Farmer",
+    "food": 2,
+    "color": [124, 252, 0]
+  }
+]
