@@ -6,7 +6,8 @@
 	},
   {
     "name": "Farmer",
-    "food": 2,
+    "food": 3,
+		"greatPersonPoints": {"Great Farmer": 3},
     "color": [124, 252, 0]
   }
 ]
