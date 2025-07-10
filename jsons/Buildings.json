@@ -2,7 +2,6 @@
   {
     "name": "AirBlock",
     "cost": 0,
-		"specialistSlots": {"Unemployed": 100},
     "uniques": [
 	    "Cannot build [Air] units",
       "Automatically built in all cities where it is buildable"
