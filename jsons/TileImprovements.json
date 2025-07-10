@@ -3,10 +3,8 @@
 		"name": "Great Farm",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 5,
-		"turnsToBuild":7,
 		"uniques": [
 			"Great Improvement",
-			"Unbuildable",
 			"Will not be replaced by automated units <hidden from users>",
 			"Removes removable features when built"
 		]
