@@ -20,5 +20,16 @@
     ],
     "attackSound": "nonmetalhit"
   },
-  
+  {
+		"name": "Great Farmer",
+		"unitType": "Civilian",
+		"uniques": [
+      "Can instantly construct a [Great Farm] improvement <by consuming this unit>",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [Food]",
+			"Unbuildable",
+			"Uncapturable",
+		],
+		"movement": 2
+	}
 ]
