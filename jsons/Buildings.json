@@ -5,7 +5,7 @@
     "uniques": [
 	    "Cannot build [Air] units",
             "Automatically built in all cities where it is buildable",
-	    "specialistSlots": {"Unemployed": 100},
+	    "specialistSlots": {"Unemployed": 100}
     ]
   }
 ]
