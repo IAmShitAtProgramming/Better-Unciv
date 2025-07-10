@@ -10,8 +10,8 @@
 	{
 		"name": "Granary",
 		"food": 2,
-		"maintenance": 1,
 		"specialistSlots": {"Farmer": 1},
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
 			"[+1 Food] from [Deer] tiles [in this city]",
