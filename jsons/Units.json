@@ -5,7 +5,6 @@
     "movement": 2,
     "strength": 5,
     "cost": 25,
-    "upgradesTo": "Archer",
     "uniques": [
       "May upgrade to [Archer] through ruins-like effects",
       "May upgrade to [Warrior] through ruins-like effects",
