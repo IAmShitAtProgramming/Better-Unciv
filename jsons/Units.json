@@ -5,14 +5,14 @@
     "movement": 2,
     "strength": 5,
     "cost": 25,
-    "upgradesTo": "Bowman",
+    "upgradesTo": "Archer",
     "uniques": [
       "May upgrade to [Archer] through ruins-like effects",
       "May upgrade to [Warrior] through ruins-like effects",
       "Never appears as a Barbarian unit",
       "Can see over obstacles",
       "[+1] Sight",
-      "[This Unit] gains [1] XP <with [20]% chance> <upon discovering a [All] tile>",
+      "[This Unit] gains [1] XP <with [100]% chance> <upon discovering a [All] tile>",
       "[This Unit] gains [10] XP <upon discovering a [Natural Wonder] tile>"
     ],
     "promotions": [
